@@ -32,3 +32,4 @@ You can click the "Preview" link to take a look at your changes.
 ### 📫 Reach me:
 
 <a href="https://www.linkedin.com/in/orsu-venkata-krishnaiah/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30" /></a>
+<a href="https://github.com/OrsuVenkataKrishnaiah1235"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width="30" /></a>
