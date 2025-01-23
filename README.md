@@ -37,6 +37,5 @@ You can click the "Preview" link to take a look at your changes.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=1100&size=25&pause=1000&color=9418F7&center=true&vCenter=true&width=600&height=25&lines=![image](https://github.com/user-attachments/assets/ed0f47f8-4f7b-4b8f-ace5-2dc845f5df2e)
-Thank You" ></div>
+<img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=1100&size=25&pause=1000&color=9418F7&center=true&vCenter=true&width=600&height=25&lines=Thank You" ></div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
