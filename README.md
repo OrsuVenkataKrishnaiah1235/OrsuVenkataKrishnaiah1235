@@ -10,8 +10,9 @@ You can click the "Preview" link to take a look at your changes.
 --->
 ### About Me:
 -  👋 Hi, I’m @OrsuVenkataKrishnaiah1235
--  🚀 I am currently working as a satellite engineer | Mission Control Center (MCC).🛰~ Telemetry & Telecommand | CCSDS Protocol | Gitlab | GUI |
--  🌱 I'm a B.Tech graduate in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT, AP, India
+-  🚀 I am currently working as a satellite engineer | Mission Control Center (MCC).
+- 🛰 I have proficient experience in Telemetry & Telecommand, CCSDS Protocol, GitLab, and GUI development.
+- 🌱 I hold a B.Tech degree in Electronics and Communication Engineering from IIIT RK Valley, RGUKT, AP, India.
 -  👀 I’m interested in learning new things related to new modren technologies...
 -  💞️ I’m looking to collaborate on Verilog, System Verilog, Embedded Systems, Python, and C embedded systems technologies...
 -  📫 How to reach me: orsuvenkatakrishnaiah1235@gmail.com
