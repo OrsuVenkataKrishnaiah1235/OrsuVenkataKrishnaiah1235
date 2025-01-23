@@ -29,10 +29,11 @@ You can click the "Preview" link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrsuVenkataKrishnaiah1235&show_icons=true&theme=radical" alt="samarasimhapeyala" /></p>
 
 ### 📫 Reach me:
-
+<p align="center">
 <a href="https://www.linkedin.com/in/orsu-venkata-krishnaiah/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30" /></a>
 <a href="https://github.com/OrsuVenkataKrishnaiah1235"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width="30" /></a>
-
+ 
+</p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0310.gif" width="1920" />
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=800&size=25&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=25&lines=Thank You;)" alt="Typing Animation" ></div>
