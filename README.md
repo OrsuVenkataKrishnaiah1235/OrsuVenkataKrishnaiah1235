@@ -23,3 +23,6 @@ You can click the "Preview" link to take a look at your changes.
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+🐱‍💻 GitHub Analytics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrsuVenkataKrishnaiah1235&layout=compact&theme=radical" alt="samarasimhapeyala" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrsuVenkataKrishnaiah1235&show_icons=true&theme=radical" alt="samarasimhapeyala" /></p>
