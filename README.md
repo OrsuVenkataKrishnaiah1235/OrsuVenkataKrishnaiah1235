@@ -30,5 +30,4 @@ You can click the "Preview" link to take a look at your changes.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ### 📫 Reach me:
-<a href="https://www.linkedin.com/in/orsu-venkata-krishnaiah/"><img src="![image](https://github.com/user-attachments/assets/d3d7cb64-36f4-412e-9f36-a02f42338d99)
-" width="30" /></a>
+<a href="https://www.linkedin.com/in/orsu-venkata-krishnaiah/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30" /></a>
