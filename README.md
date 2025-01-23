@@ -35,9 +35,5 @@ You can click the "Preview" link to take a look at your changes.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=1100&size=25&pause=1000&color=9418F7&center=true&vCenter=true&width=600&height=25&lines=Thank You ;)" ></div>
-
-<div style="font-family: 'Calibri Code'; font-weight: 1100; font-size: 25px; color: #9418F7; text-align: center;">
-    Thank You ;)
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=800&size=25&pause=1000&color=9418F7&center=true&vCenter=true&width=400&height=25&lines=Thank You ;)" alt="Typing Animation" ></div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
